@@ -1,0 +1,30 @@
+
+/* Class = "IBUITextField"; text = "5"; ObjectID = "7A6-jt-VXi"; */
+"7A6-jt-VXi.text" = "5";
+
+/* Class = "IBUITextField"; text = "10"; ObjectID = "HLT-Ut-yr0"; */
+"HLT-Ut-yr0.text" = "10";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Qxa-pJ-4sD"; */
+"Qxa-pJ-4sD.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "R2R-Cb-vdS"; */
+"R2R-Cb-vdS.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Wle-HH-x2o"; */
+"Wle-HH-x2o.text" = "Label";
+
+/* Class = "IBUISegmentedControl"; iyK-zS-Mys.segmentTitles[0] = "+"; ObjectID = "iyK-zS-Mys"; */
+"iyK-zS-Mys.segmentTitles[0]" = "+";
+
+/* Class = "IBUISegmentedControl"; iyK-zS-Mys.segmentTitles[1] = "-"; ObjectID = "iyK-zS-Mys"; */
+"iyK-zS-Mys.segmentTitles[1]" = "-";
+
+/* Class = "IBUISegmentedControl"; iyK-zS-Mys.segmentTitles[2] = "x"; ObjectID = "iyK-zS-Mys"; */
+"iyK-zS-Mys.segmentTitles[2]" = "x";
+
+/* Class = "IBUISegmentedControl"; iyK-zS-Mys.segmentTitles[3] = ":"; ObjectID = "iyK-zS-Mys"; */
+"iyK-zS-Mys.segmentTitles[3]" = ":";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "owY-aD-qGr"; */
+"owY-aD-qGr.normalTitle" = "Button";
